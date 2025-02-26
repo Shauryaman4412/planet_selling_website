@@ -1,1 +1,1 @@
-THIS IS THE LANDING PAGE I'M TRYING TO MAKE ON MY OWN WITHOUT WATCHING THE TUTORIAL 
+The landimg page I made in 30dayofcoding after finishing my HTML AND CSS IN DETAIL.
